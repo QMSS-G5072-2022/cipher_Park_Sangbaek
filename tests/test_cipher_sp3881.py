@@ -1,0 +1,1 @@
+from cipher_sp3881 import cipher_sp3881
